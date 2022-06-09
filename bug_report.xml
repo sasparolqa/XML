@@ -1,0 +1,17 @@
+<environment>macOS Big Sur(11.3.1).Google Chrome(96.0.4664.110 ) WI-FI</environment>
+<preConditions>link</preConditions>
+<ID>1</ID>
+<Description>The text "web-designer" is written through a hyphen in the header of the site when the site is open</Description>
+<STR>1.Сlick on the https://www.davydovconsulting.com/"
+     2.Сlick on the "Email" field and enter valid email "alexander@gmail.com"
+      3.Сlick on the "Email" field and enter valid email "alexander@gmail.com"
+       4.Сlick on the "Password" field and enter valid password"1111"
+       5.Сlick on the "Repeat password" field and enter valid repeat password"1111"
+       6.Click the button "Зарегистрироваться"
+       </STR>
+
+<Result> here is no notification about incorrect or  incorrectly entered values in the field</Result>
+<expectedResult>Notification that a field cannot contain only a spaces</expectedResult>
+<Severity>Major</Severity>
+<Priority>Medium</Priority>
+<Status>TO DO</Status>
